@@ -7,8 +7,8 @@ Repositório destinado a elucidação do processo de validação cruzada com a t
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="defina o título do link">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGrWFWXM1-wfA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724946910080?e=1732147200&v=beta&t=bkZBFFROZfY98Hmt_tsJgspnbNReNJec4Cc9RrlAXX4](https://media.licdn.com/dms/image/v2/D4D03AQGrWFWXM1-wfA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724946910105?e=1732147200&v=beta&t=1_IFxc-9KAjxop_kTuhKkpIWSuYx-7_aHUzbh4D-8Og" width="100px;" alt="Foto da Samara Silva no GitHub"/><br>
+      <a href="https://www.linkedin.com/in/iamsamarav/" title="defina o título do link">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGrWFWXM1-wfA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724946910080?e=1732147200&v=beta&t=bkZBFFROZfY98Hmt_tsJgspnbNReNJec4Cc9RrlAXX4" width="100px;" alt="Foto da Samara Silva no GitHub"/><br>
         <sub>
           <b>Samara Vitória</b>
         </sub>
